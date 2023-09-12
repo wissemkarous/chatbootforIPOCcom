@@ -1,0 +1,32 @@
+[
+  {
+    "user_input": ["machine learning", "ml", "ai"],
+    "bot_response": "I can help you with machine learning questions!",
+    "required_words": []
+  },
+  {
+    "user_input": ["nlp", "neural network processing ", "NLP"],
+    "bot_response": "check page 22 of the documentation number 3",
+    "required_words": []
+  },
+  {
+    "user_input": ["nice", "meet", "you"],
+    "bot_response": "The pleasure is all mine!",
+    "required_words": ["nice", "meet", "you"]
+  },
+  {
+    "user_input": ["learn", "code", "coding"],
+    "bot_response": "Start by typing: 'How to learn coding' on Google.",
+    "required_words": ["learn", "code"]
+  },
+  {
+    "user_input": ["refund", "how", "can", "I", "get"],
+    "bot_response": "We don't offer refunds for free education.",
+    "required_words": ["refund", "I"]
+  },
+  {
+    "user_input": ["how", "are", "you"],
+    "bot_response": "I'm great! Thanks for asking.",
+    "required_words": ["how", "are", "you"]
+  }
+]
